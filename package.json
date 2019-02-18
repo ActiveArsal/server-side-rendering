@@ -1,0 +1,24 @@
+{
+  "name": "server-side-rendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ActiveArsal/server-side-rendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ActiveArsal/server-side-rendering/issues"
+  },
+  "homepage": "https://github.com/ActiveArsal/server-side-rendering#readme",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
