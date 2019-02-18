@@ -8,6 +8,7 @@ const about = () => {
 			<Link href='/'>
 				Home
 			</Link>
+			
 			{/*<a href='/'>Home</a>*/}
 		</div>
 	);
